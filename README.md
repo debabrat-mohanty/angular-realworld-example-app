@@ -78,5 +78,10 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 <br />
 
 test
+<<<<<<< HEAD
 adding branch 2
+=======
+branch 1 dddd
+
+>>>>>>> master
 [![Brought to you by Thinkster](https://raw.githubusercontent.com/gothinkster/realworld/master/media/end.png)](https://thinkster.io)
